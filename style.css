@@ -1,0 +1,41 @@
+body{
+	  
+	
+	
+	margin:0;
+	paddind-down:0;
+	display:flex;
+	justify-content: center;
+	olign-item:center;
+	min-height:100vh;
+    background:black;
+    font-family: consolas;
+}
+a
+{
+	position:relative;
+	display: inline-block;
+	paddig: 15px 40px;
+	color:#2196f3;
+	text-transform: uppercase;
+	Letter-spacing:4px;
+	text-decoration:none;
+	font-size:30px;
+	overflow:hidden;
+	transition: 0.2s;
+
+}
+
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
